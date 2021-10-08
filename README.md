@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there, I'm <a href="noemiegrau.github.io/react-portfolio/" target="_blank">Noemie</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I am a Full Stack Software Engineer with a background in International Marketing. <!-- I love to learn-->
