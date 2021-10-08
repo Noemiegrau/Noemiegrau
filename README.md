@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### Hi there, I'm <a href="noemiegrau.github.io/react-portfolio/" target="_blank">Noemie Grau</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+
+
+
+
+
 <!--
 **Noemiegrau/Noemiegrau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
