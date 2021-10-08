@@ -4,6 +4,7 @@ I am a Full Stack Software Engineer with a background in International Marketing
 
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+![image](https://user-images.githubusercontent.com/78329298/136610704-e5a718a2-29b9-492a-8f99-9789cba71dbc.png)
 
 
 <!--
