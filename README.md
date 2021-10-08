@@ -24,4 +24,4 @@ I am a Full Stack Software Engineer and graduate in International Marketing. <!-
 
 
 
-                             ![code-coding](https://user-images.githubusercontent.com/78329298/136612033-a86e6d3e-fc42-40ab-955c-a76db2c737d9.gif)
+![code-coding](https://user-images.githubusercontent.com/78329298/136612033-a86e6d3e-fc42-40ab-955c-a76db2c737d9.gif)
