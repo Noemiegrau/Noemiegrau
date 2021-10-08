@@ -3,6 +3,7 @@
 I am a Full Stack Software Engineer and graduate in International Marketing. <!-- I love to learn-->
 ![previewfile_2217383700](https://user-images.githubusercontent.com/78329298/136610841-57319dfd-4ec7-4e92-a150-bb9118fac930.gif)
 ![matrix2](https://user-images.githubusercontent.com/78329298/136611862-50022297-85e9-4a90-9933-29826c547189.gif)
+![code-coding](https://user-images.githubusercontent.com/78329298/136612033-a86e6d3e-fc42-40ab-955c-a76db2c737d9.gif)
 
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
