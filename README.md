@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-### Hi there, I'm <a href="noemiegrau.github.io/react-portfolio/" target="_blank">Noemie Grau</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm <a href="noemiegrau.github.io/react-portfolio/" target="_blank">Noemie</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+I am a Full Stack Software Engineer with a background in International Marketing. <!-- I love to learn-->
 
 
-
-
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 
 <!--
-**Noemiegrau/Noemiegrau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
