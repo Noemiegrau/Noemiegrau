@@ -36,7 +36,9 @@ and more!
 <br /><br />
 
 ## My stats
-![Hua's github stats](https://github-readme-stats.vercel.app/api?username=Noemiegrau&show_icons=true&theme=tokyonight)
+![Noemie Grau's github stats](https://github-readme-stats.vercel.app/api?username=Noemiegrau&show_icons=true&theme=tokyonight)
+
+![Noemie Grau's github stats](https://github-readme-stats.vercel.app/api?username=Noemiegrau&show_icons=true&theme=cobalt)
 
 
 
