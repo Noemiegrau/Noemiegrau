@@ -11,5 +11,5 @@ I am a Full Stack Software Engineer and MS graduate in International and Operati
 
 ## How to reach me:    💬
 
-Linkedin 
-Portfolio
+[Linkedin](https://www.linkedin.com/in/noemiegrau/)
+[Portfolio](https://noemiegrau.github.io/react-portfolio/)
