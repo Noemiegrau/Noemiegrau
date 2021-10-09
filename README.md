@@ -7,7 +7,7 @@ I am a Full Stack Software Engineer and MS graduate in International and Operati
 <!-- Introduction paragraph -->
 
 
-- 🔭 I’m currently working using mainly Javascript, the MERN Stack, and MySQL. I build web apps with strong databases.
+- 🔭 I am currently working using mainly Javascript, the MERN Stack, and MySQL. I build web apps with strong databases.
 - ⚡ Fun fact: I am french 🇫🇷  and now based in Los Angeles 🇺🇸.
 
 ## How to reach me    💬
