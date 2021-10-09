@@ -36,7 +36,7 @@ and more!
 <br /><br />
 
 ## My stats
-![Hua's github stats](https://github-readme-stats.vercel.app/api?username=melanieshi0120&show_icons=true&theme=radical)
+![Hua's github stats](https://github-readme-stats.vercel.app/api?username=Noemiegrau&show_icons=true&theme=radical)
 
 
 
