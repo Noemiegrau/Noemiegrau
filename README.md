@@ -7,15 +7,15 @@ I am a Full Stack Software Engineer and MS graduate in International and Operati
 <!-- Introduction paragraph -->
 
 
-- 🔭 I’m currently working using Javascript, MERN Stack, and MySQL. 
-- 🌱 I’m currently learning ...
-- ⚡ Fun fact: I am french 🇫🇷  and now based in Los Angeles 🇺🇸
+- 🔭 I’m currently working using mainly Javascript, the MERN Stack, and MySQL. 
+- ⚡ Fun fact: I am french 🇫🇷  and now based in Los Angeles 🇺🇸.
 
 ## How to reach me:    💬
 
 🤝 [Linkedin](https://www.linkedin.com/in/noemiegrau/)
-[Portfolio](https://noemiegrau.github.io/react-portfolio/)
+🖥💻📍[Portfolio](https://noemiegrau.github.io/react-portfolio/)
 
 
 Enjoy having a look at my repos and don't hesitate to contribute! 
-☀️✨🌼🌸🌱🖥💻📍🇫🇷🇺🇸
+☀️✨🌼🌸�
+ 
