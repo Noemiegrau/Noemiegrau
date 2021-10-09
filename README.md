@@ -2,9 +2,6 @@
 
 I am a Full Stack Software Engineer and graduate in International Marketing. <!-- I love to learn-->
 
-
-![previewfile_2217383700](https://user-images.githubusercontent.com/78329298/136610841-57319dfd-4ec7-4e92-a150-bb9118fac930.gif)
-
 <!-- Introduction paragraph -->
 
 
