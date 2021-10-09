@@ -2,14 +2,14 @@
 
 
 ## About me:     👩🏽‍💻
-I am a Full Stack Software Engineer and MS graduate in International and Operational Marketing. <!-- I love to learn-->
+I am a Full Stack Software Engineer and MS graduate in International and Operational Marketing, welcome to my space! <!-- I love to learn-->
 
 <!-- Introduction paragraph -->
 
 
 - 🔭 I’m currently working using Javascript, MERN Stack, and MySQL. 
 - 🌱 I’m currently learning ...
-- ⚡ Fun fact: I am french 🇫🇷 and now based in Los Angeles 🇺🇸
+- ⚡ Fun fact: I am french 🇫🇷  and now based in Los Angeles 🇺🇸
 
 ## How to reach me:    💬
 
