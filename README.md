@@ -35,7 +35,10 @@ and more!
 <br />
 <br /><br />
 
+## My stats
+![Hua's github stats](https://github-readme-stats.vercel.app/api?username=melanieshi0120&show_icons=true&theme=radical)
+
+
 
 <!-- Enjoy having a look at my repos and don't hesitate to contribute! 🌤️ -->
- 
 Enjoy having a look at my work and don't hesitate to contribute!  🌸
