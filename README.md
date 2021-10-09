@@ -40,6 +40,7 @@ and more!
 
 ![Noemie Grau's github stats](https://github-readme-stats.vercel.app/api?username=Noemiegrau&show_icons=true&theme=cobalt)
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Noemiegrau&theme=blue-green)
 
 
 <!-- Enjoy having a look at my repos and don't hesitate to contribute! 🌤️ -->
