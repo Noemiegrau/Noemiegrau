@@ -16,6 +16,6 @@ I am a Full Stack Software Engineer and MS graduate in International and Operati
 🖥️ Here is my portfolio [Portfolio](https://noemiegrau.github.io/react-portfolio/)
 
 
-Enjoy having a look at my repos and don't hesitate to contribute! :sun:
+Enjoy having a look at my repos and don't hesitate to contribute! 🌤️
  
 Enjoy having a look at my repos and don't hesitate to contribute!  🌸
