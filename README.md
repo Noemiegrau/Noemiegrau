@@ -9,7 +9,7 @@ I am a Full Stack Software Engineer and MS graduate in International and Operati
 - 🌱 I’m currently learning ...
 - ⚡ Fun fact: ...
 
-## How to reach me:  💬
+## How to reach me:    💬
 
 Linkedin 
 Portfolio
