@@ -3,15 +3,15 @@
 <!-- I love to learn..-->
 
 ## 👩🏽‍💻 About me     
-- 🔭 I really enjoy working using **Javascript, the MERN Stack, and MySQL**. I build web apps with strong databases.
+- 🔭 I really enjoy working using **Javascript, the MERN Stack, and MySQL**. I build web apps with strong databases
 
-- 🌱 I’m currently learning **AWS**.
+- 🌱 I’m currently learning **AWS**
 
-- 🤔 I’m looking to collaborate more on **Open Source Projects**.
+- 🤔 I’m looking to collaborate more on **Open Source Projects**
 
 - 💬 Ask me about anything, I am always happy to learn and help!
 
-- ⚡ Fun fact: I am **french 🇫🇷**  and now based in **Los Angeles 🇺🇸**.
+- ⚡ Fun fact: I am **french 🇫🇷**  and now based in **Los Angeles 🇺🇸**
 
 ## How to reach me    <!-- 💬 -->
 
