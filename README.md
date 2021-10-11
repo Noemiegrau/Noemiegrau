@@ -16,7 +16,9 @@
 ## How to reach me    <!-- 💬 -->
 
 🤝 Let's connect on my [Linkedin](https://www.linkedin.com/in/noemiegrau/) </br>
+
 🖥️ Here is my [Portfolio](https://noemiegrau.github.io/react-portfolio/) </br>
+
 📫 And my email noemiegrau@outlook.fr
 
 ## Languages and Tools
