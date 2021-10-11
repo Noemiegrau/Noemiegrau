@@ -15,7 +15,7 @@ I am a Full Stack Software Engineer and MS graduate in International and Operati
 - 💬 Ask me about anything, I am always happy to learn and help!
 - ⚡ Fun fact: I am french 🇫🇷  and now based in Los Angeles 🇺🇸.
 
-## How to reach me    💬
+## How to reach me    <!-- 💬 -->
 
 🤝 Let's connect on my [Linkedin](https://www.linkedin.com/in/noemiegrau/) </br>
 🖥️ Here is my portfolio [Portfolio](https://noemiegrau.github.io/react-portfolio/)
