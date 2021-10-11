@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, I'm <a href="https://noemiegrau.github.io/react-portfolio/" target="_blank">Noemie </a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">I am a passionate Full Stack Software Engineer, welcome to my space!</h3>
+<h3 align="center">I am a passionate Full Stack Software Engineer, welcome to my happy place!</h3>
 <!-- I love to learn..-->
 
 ## 👩🏽‍💻 About me     
