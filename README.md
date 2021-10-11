@@ -41,5 +41,8 @@ and more!
 ![Noemie Grau's github stats](https://github-readme-stats.vercel.app/api?username=Noemiegrau&show_icons=true&theme=cobalt)
 
 
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <!-- Enjoy having a look at my repos and don't hesitate to contribute! 🌤️ -->
 Enjoy having a look at my work and don't hesitate to contribute!  🌸
