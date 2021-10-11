@@ -11,7 +11,7 @@
 
 - 💬 Ask me about anything, I am always happy to learn and help!
 
-- ⚡ Fun fact: I am **french 🇫🇷**  and now based in **Los Angeles 🇺🇸**
+- ⚡ Fun fact: I am **French 🇫🇷**  and now based in **Los Angeles 🌴**
 
 ## How to reach me    <!-- 💬 -->
 
