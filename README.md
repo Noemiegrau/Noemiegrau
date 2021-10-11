@@ -1,50 +1,57 @@
-# Hello World, I'm <a href="https://noemiegrau.github.io/react-portfolio/" target="_blank">Noemie</a>  <img src="https://camo.githubusercontent.com/b0fa06ee100360ae8811a115c133de7848891e3b/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966" width="70" height="70" />
+<h1 align="center">Hello World, I'm <a href="https://noemiegrau.github.io/react-portfolio/" target="_blank">Noemie </a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h3 align="center">I am a passionate Full Stack Software Engineer, welcome to my space!</h3>
+<!-- I love to learn..-->
 
+## 👩🏽‍💻 About me     
+- 🔭 I really enjoy working using **Javascript, the MERN Stack, and MySQL**. I build web apps with strong databases.
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Noemiegrau&color=ff69b4)
+- 🌱 I’m currently learning **AWS**.
 
-## About me     👩🏽‍💻
-I am a Full Stack Software Engineer and MS graduate in International and Operational Marketing, welcome to my space! <!-- I love to learn-->
+- 🤔 I’m looking to collaborate more on **Open Source Projects**.
 
-<!-- Introduction paragraph -->
-
-
-- 🔭 I really enjoy working using Javascript, the MERN Stack, and MySQL. I build web apps with strong databases.
-- 🌱 I’m currently learning AWS.
-- 🤔 I’m looking to collaborate more on Open Source Projects.
 - 💬 Ask me about anything, I am always happy to learn and help!
-- ⚡ Fun fact: I am french 🇫🇷  and now based in Los Angeles 🇺🇸.
+
+- ⚡ Fun fact: I am **french 🇫🇷**  and now based in **Los Angeles 🇺🇸**.
 
 ## How to reach me    <!-- 💬 -->
 
 🤝 Let's connect on my [Linkedin](https://www.linkedin.com/in/noemiegrau/) </br>
-🖥️ Here is my portfolio [Portfolio](https://noemiegrau.github.io/react-portfolio/)
- 
+🖥️ Here is my [Portfolio](https://noemiegrau.github.io/react-portfolio/) </br>
+📫 And my email noemiegrau@outlook.fr
 
 ## Languages and Tools
-
+<p align="left"> 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<img align="left" alt="SQL" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<a style="padding-right:8px;" width="46px" href="https://www.mysql.com/" target="_blank"> <img width="46px" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+<a href="https://www.mongodb.com/" width="46px" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 and more!
 <br />
+</p>
+
 
 ## My stats
 
 ![Noemie Grau's github stats](https://github-readme-stats.vercel.app/api?username=Noemiegrau&show_icons=true&theme=cobalt)
 
 
-[![Noemie Grau's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Noemiegrau)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Noemiegrau&theme=material-palenight)](https://github.com/Noemiegrau/github-readme-streak-stats)
+
+
+## Views
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=Noemiegrau&color=ff69b4)
 
 
 <!--
