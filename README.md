@@ -19,7 +19,11 @@
 
 🖥️ Here is my [Portfolio](https://noemiegrau.github.io/react-portfolio/) </br>
 
-📫 And my email noemiegrau@outlook.fr
+📫 My email noemiegrau@outlook.fr
+
+🙏 Support me at Buy Me a Coffee
+
+🙏 Support me at <a href="https://www.buymeacoffee.com/Noemiegrau" target="_blank"><img alt="Buy Me a Coffee" src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-ffdd00?&style=flat-square&&logo=buy%20me%20a%20coffee&logoColor=black" /></a>
 
 ## Languages and Tools
 <p align="left"> 
