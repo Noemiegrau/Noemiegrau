@@ -17,7 +17,7 @@
 
 🤝 Let's connect on my [Linkedin](https://www.linkedin.com/in/noemiegrau/) </br>
 
-🖥️ Here is my [Portfolio](https://noemiegrau.github.io/react-portfolio/) </br>
+🖥️ Here is my [Portfolio](https://noemiegrau.github.io/noemiegrau-portfolio/) </br>
 
 📫 My email noemiegrau@outlook.fr
 <!-- 
